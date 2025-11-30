@@ -1,65 +1,57 @@
 {
-"hero": {
-  "title": "Building Dreams (and Terrible Jokes) in Western NC",
-  "description": "Fafula Projects is a small, detail-focused construction company specializing in residential siding, decking, exterior trim, and custom carpentry. We partner with homeowners and builders to solve problems on site, keep schedules moving, and leave every job cleaner than we found it.",
-  "image": "/images/hero-construction-team.jpg",
-  "imageAlt": "Fafula Projects crew working on a home exterior",
-  "buttons": [
-    {
-      "label": "Request a quote",
-      "href": "#contact",
-      "variant": "primary"
-    },
-    {
-      "label": "View recent projects",
-      "href": "#projects",
-      "variant": "ghost"
-    }
-  ]
-}
-  }
-  "logos": {
-    "title": "Trusted by the world's best",
-    "icons": [
+  "hero": {
+    "title": "Building Dreams (and Terrible Jokes) in Western NC",
+    "description": "Fafula Projects is a small, detail-focused construction company specializing in residential siding, decking, exterior trim, and custom carpentry. We partner with homeowners and builders to solve problems on site, keep schedules moving, and leave every job cleaner than we found it.",
+    "image": "/images/hero-construction-team.jpg",
+    "imageAlt": "Fafula Projects crew working on a home exterior",
+    "buttons": [
       {
-        "name": "i-simple-icons-gitlab"
+        "label": "Request a quote",
+        "href": "#contact",
+        "variant": "primary"
       },
       {
-        "name": "i-simple-icons-github"
-      },
-      {
-        "name": "i-simple-icons-openai"
-      },
-      {
-        "name": "i-simple-icons-google"
-      },
-      {
-        "name": "i-simple-icons-netlify"
+        "label": "View recent projects",
+        "href": "#projects",
+        "variant": "ghost"
       }
     ]
   },
-"features": {
-  "title": "What Fafula Projects Can Handle for You",
-  "description": "From siding and decks to trim and small custom builds, we focus on clean details, clear communication, and solving the little problems before they become big ones.",
-  "items": [
-    {
-      "title": "Siding & Exterior Details",
-      "description": "Fiber cement, LP, or specialty products – installed with clean lines, proper flashing, and the little trim details that make a house look finished."
-    },
-    {
-      "title": "Decks & Outdoor Spaces",
-      "description": "Composite and wood decks, stairs, and railings. We focus on structure, layout, and details so your deck feels solid and looks sharp."
-    },
-    {
-      "title": "Interior & Exterior Trim",
-      "description": "Interior casing, baseboard, feature walls, and exterior fascia/soffit details that tie the whole project together."
-    },
-    {
-      "title": "Builder Partnerships",
-      "description": "We regularly partner with builders who need a reliable crew for siding, decks, and punch-list style projects on single-family homes."
-    }
-]
+
+  "logos": {
+    "title": "Trusted by the world's best",
+    "icons": [
+      { "name": "i-simple-icons-gitlab" },
+      { "name": "i-simple-icons-github" },
+      { "name": "i-simple-icons-openai" },
+      { "name": "i-simple-icons-google" },
+      { "name": "i-simple-icons-netlify" }
+    ]
   },
+
+  "features": {
+    "title": "What Fafula Projects Can Handle for You",
+    "description": "From siding and decks to trim and small custom builds, we focus on clean details, clear communication, and solving the little problems before they become big ones.",
+    "items": [
+      {
+        "title": "Siding & Exterior Details",
+        "description": "Fiber cement, LP, or specialty products – installed with clean lines, proper flashing, and the little trim details that make a house look finished."
+      },
+      {
+        "title": "Decks & Outdoor Spaces",
+        "description": "Composite and wood decks, stairs, and railings. We focus on structure, layout, and details so your deck feels solid and looks sharp."
+      },
+      {
+        "title": "Interior & Exterior Trim",
+        "description": "Interior casing, baseboard, feature walls, and exterior fascia/soffit details that tie the whole project together."
+      },
+      {
+        "title": "Builder Partnerships",
+        "description": "We regularly partner with builders who need a reliable crew for siding, decks, and punch-list style projects on single-family homes."
+      }
+    ]
+  },
+
   "testimonials": {
     "title": "What Our Users Are Saying",
     "description": "Hear from our clients about their experiences working with Nuxt and Netlify.",
@@ -90,15 +82,16 @@
       }
     ]
   },
-"cta": {
-  "title": "Ready to talk about your next project?",
-  "description": "Whether you’re a homeowner or a builder, we can help with siding, decks, trim, and small exterior projects around Western North Carolina. Tell us a bit about your project and we’ll follow up with next steps.",
-  "buttons": [
-    {
-      "label": "Request a quote",
-      "href": "#contact",
-      "variant": "primary"
-    }
-  ]
-}
+
+  "cta": {
+    "title": "Ready to talk about your next project?",
+    "description": "Whether you’re a homeowner or a builder, we can help with siding, decks, trim, and small exterior projects around Western North Carolina. Tell us a bit about your project and we’ll follow up with next steps.",
+    "buttons": [
+      {
+        "label": "Request a quote",
+        "href": "#contact",
+        "variant": "primary"
+      }
+    ]
+  }
 }
