@@ -17,7 +17,7 @@ const menuitems = [
       <div class="flex items-center justify-between">
         <a href="/" class="flex items-center">
   <img 
-    src="/images/LOGO-Blue1050x600.png" 
+    src="/images/LOGO-fafula projects1.png" 
     alt="Fafula Projects Logo" 
     class="h-40 w-auto object-contain"
   />
