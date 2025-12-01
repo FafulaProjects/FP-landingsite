@@ -19,7 +19,7 @@ const menuitems = [
   <img 
     src="/images/LOGO-fafula projects1.png" 
     alt="Fafula Projects Logo" 
-    class="h-40 w-auto object-contain"
+    class="h-25 w-auto object-contain"
   />
 </a>
       </div>
