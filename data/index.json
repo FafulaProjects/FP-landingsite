@@ -94,15 +94,20 @@
 ]
   },
 
-  "cta": {
-    "title": "Ready to talk about your next project?",
-    "description": "Whether you’re a homeowner or a builder, we can help with siding, decks, trim, and small exterior projects around Western North Carolina. Tell us a bit about your project and we’ll follow up with next steps.",
-    "buttons": [
-      {
-        "label": "Request a quote",
-        "href": "#contact",
-        "variant": "primary"
-      }
-    ]
-  }
+"cta": {
+  "title": "Ready to talk about your next project?",
+  "description": "Whether you’re a homeowner or a builder, we can help with siding, decks, trim, and small exterior projects around Western North Carolina. We primarily serve Asheville, Hendersonville, Fletcher, Arden, Flat Rock, and nearby communities in the greater Western NC area. Contact us and tell us a bit about your project and we’ll follow up with next steps.",
+  "buttons": [
+    {
+      "label": "Call us",
+      "href": "tel:828-707-2849",
+      "variant": "primary"
+    },
+    {
+      "label": "Email us",
+      "href": "mailto:fafulaprojects@gmail.com",
+      "variant": "ghost"
+    }
+  ]
+}
 }
