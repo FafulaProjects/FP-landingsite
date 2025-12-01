@@ -53,7 +53,7 @@
     ]
   },
   "testimonials": {
-    "title": "What Our Users Are Saying",
+    "title": "What Our Clients Are Saying",
     "description": "Hear from our clients about their experiences working with Nuxt and Netlify.",
    "items": [
   {
@@ -67,28 +67,28 @@
     "quote": "I recently worked with Fafula Projects on my home building project—from trim to installing doors—and I’m thrilled with the results. Their precision and commitment to quality are exceptional. They communicated clearly throughout the process and made everything smooth and enjoyable. Highly recommend for anyone wanting a home built with care and excellence.",
     "author": {
       "name": "Kamila",
-      "title": "Google Review"
+      "title": "Google Review — ★★★★★"
     }
   },
   {
     "quote": "We hired Fafula Projects to repair damage to our tongue-and-groove screen porch ceiling after hurricane Helene. They beautifully matched and replaced boards, repaired scratches, and made the ceiling look brand new. Easy to work with and very responsive. Highly recommend.",
     "author": {
       "name": "John Schwartz",
-      "title": "Google Review"
+      "title": "Google Review — ★★★★★"
     }
   },
   {
     "quote": "An excellent company! I contacted them for siding repairs after hurricane Helene, and they also handled extensive tree cleanup. Adolph is top-notch—thorough, professional, and focused on doing the job right. They made sure everything was clean and checked repeatedly that I was satisfied. Honest, skilled, and highly recommended.",
     "author": {
       "name": "G.D. Waters",
-      "title": "Google Review"
+      "title": "Google Review — ★★★★★"
     }
   },
   {
     "quote": "Fafula Projects is a pleasure to work with. Their team is professional, quality-oriented, and always helpful. They deliver excellent work on time and within budget. I look forward to partnering with them on future projects.",
     "author": {
       "name": "Isaac Aikey",
-      "title": "Google Review"
+      "title": "Google Review — ★★★★★"
     }
   }
 ]
