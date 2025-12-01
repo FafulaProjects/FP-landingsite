@@ -18,8 +18,9 @@
     ]
   },
 
-  "logos": {
-    "title": "Trusted by Homeowners and Builders Across Western NC",
+"logos": {
+  "title": "Trusted by Homeowners and Builders Across Western NC",
+  "description": "We work with local homeowners and partner with builders who need a reliable siding, decking, and trim crew.",
     "icons": [
       { "name": "i-simple-icons-gitlab" },
       { "name": "i-simple-icons-github" },
